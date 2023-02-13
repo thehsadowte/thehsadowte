@@ -49,11 +49,6 @@
 ###
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-###
-
 <img src="https://raw.githubusercontent.com/thehsadowte/thehsadowte/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -61,5 +56,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/thehsadowte/count.svg?"  />
 </div>
+
+###
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ###
