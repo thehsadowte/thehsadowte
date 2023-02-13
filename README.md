@@ -58,6 +58,5 @@
 
 ###
 
-<div align="center">
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
