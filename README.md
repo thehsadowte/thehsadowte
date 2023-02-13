@@ -1,5 +1,3 @@
-###thehsadowte
-
 <br clear="both">
 
 <h2 align="left">Hi, My name is Sasha and I am Front-end Developer from Ukraine!)</h2>
